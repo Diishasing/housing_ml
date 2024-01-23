@@ -3,6 +3,8 @@ scikit-learn
 pandas
 numpy
 matplotlib
+gunicorn
+
 
 // picklemixin worked for me
 // pickle5 does not
