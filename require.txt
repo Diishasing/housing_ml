@@ -3,3 +3,7 @@ scikit-learn
 pandas
 numpy
 matplotlib
+
+// picklemixin worked for me
+// pickle5 does not
+// pickle works for py3.9 and above
